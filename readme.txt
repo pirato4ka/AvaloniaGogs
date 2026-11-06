@@ -1,2 +1,3 @@
-Мой первый проект на C# с использованием Avalonia
-Добавлена строка для проверки git diff
+reademe.txt
+reademe.txt
+notes.txt
